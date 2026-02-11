@@ -4,8 +4,6 @@
 - 🔭 Atualmente eu trabalho com atendimento ao público.
 - 🌱 Estudando Ciências da computação - CEUB
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanarruda27&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
           
