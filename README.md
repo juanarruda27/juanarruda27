@@ -4,8 +4,6 @@
 - 🔭 Atualmente eu trabalho com atendimento ao público.
 - 🌱 Estudando Ciências da computação - CEUB
 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanarruda27&theme=dark&show_icons=true)
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanarruda27&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 
 <div style="display: inline_block"><br>
