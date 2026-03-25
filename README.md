@@ -1,6 +1,6 @@
 ## Olá! Sou o Juan Arruda
 
-- 📚 É o meu primeiro semestre na faculdade
+- 📚 Estou no 3° semestre na faculdade
 - 🔭 Atualmente eu trabalho com atendimento ao público.
 - 🌱 Estudando Ciências da computação - CEUB
 
